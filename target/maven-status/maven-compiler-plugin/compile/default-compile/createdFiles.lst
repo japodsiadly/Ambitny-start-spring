@@ -1,0 +1,6 @@
+io\github\mat3e\lang\LangRepository.class
+io\github\mat3e\HelloWorldWithSpringApplication.class
+io\github\mat3e\lang\Lang.class
+io\github\mat3e\lang\LangServlet.class
+io\github\mat3e\lang\LangService.class
+io\github\mat3e\lang\LangDTO.class
